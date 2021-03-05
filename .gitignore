@@ -22,3 +22,9 @@ docs/site/
 # committed for packages, but should be committed for applications that require a static
 # environment.
 Manifest.toml
+
+# Ingore Jupyter files
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.projects
+*/.projects/*
