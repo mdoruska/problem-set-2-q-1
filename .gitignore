@@ -24,7 +24,5 @@ docs/site/
 Manifest.toml
 
 # Ingore Jupyter files
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
-.projects
-*/.projects/*
+*.ipynb_checkpoints
+*.projects
